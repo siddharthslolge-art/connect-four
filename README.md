@@ -12,5 +12,3 @@ Data Structures
 Problem Solving
 Pygame
 NumPy
-
-Compared to a basic 2-player game, recruiters will view this as a more substantial project.
