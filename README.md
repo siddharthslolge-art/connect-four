@@ -1,4 +1,4 @@
-# Connect Four with AI Opponent
+# Connect_four.py
 
 A desktop Human-vs-AI Connect Four game in Python. The AI opponent uses the
 Minimax algorithm with Alpha-Beta pruning.
