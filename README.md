@@ -1,14 +1,16 @@
-# connect-four with ai counter player
-Connect Four AI using Minimax Algorithm and Alpha-Beta Pruning
+# Connect Four with AI Opponent
 
-Why this is good for your resume
+A desktop Human-vs-AI Connect Four game in Python. The AI opponent uses the
+Minimax algorithm with Alpha-Beta pruning.
 
-This demonstrates:
+## Features
+- Human vs AI gameplay with a Pygame interface
+- Minimax search with Alpha-Beta pruning
+- NumPy-based game board
 
-Python
-Game Development
-AI Search Algorithms
-Data Structures
-Problem Solving
-Pygame
-NumPy
+## Run
+1. `pip install pygame numpy`
+2. `python connect_four.py`
+
+## Notes
+- AI search depth: [FILL IN: your depth value]
